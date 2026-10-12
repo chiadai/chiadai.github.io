@@ -1,2 +1,2 @@
 # chiadai.github.io
-Personal site hosting
+Redirects to my personal site: https://chiadai.pages.dev
